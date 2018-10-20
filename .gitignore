@@ -20,3 +20,7 @@ target/
 .project
 .settings
 build/
+.sbtserver/
+._.DS_Store
+.DS_Store
+C08177/
