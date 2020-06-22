@@ -1,0 +1,3 @@
+[submodule "0_hello_worlds/SomeScalaExercises"]
+	path = 0_hello_worlds/SomeScalaExercises
+	url = git@github.com:Lanskask/SomeScalaExercises.git

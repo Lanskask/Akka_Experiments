@@ -18,7 +18,8 @@ object MinimalHttpServer extends HttpApp {
 	
 	override def routes =
 		pathPrefix("v1") {
-			path("id" / Segment) { id =>
+//			path("id" / Segment) { id =>
+			path(IntNumber) { id =>
 				get {
 					complete(
 						HttpEntity(
