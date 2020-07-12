@@ -1,3 +1,9 @@
 [submodule "0_hello_worlds/SomeScalaExercises"]
 	path = 0_hello_worlds/SomeScalaExercises
 	url = git@github.com:Lanskask/SomeScalaExercises.git
+[submodule "tapir"]
+	path = tapir
+	url = https://github.com/softwaremill/tapir
+[submodule "zio-tapir"]
+	path = zio-tapir
+	url = https://github.com/Neurodyne/zio-tapir

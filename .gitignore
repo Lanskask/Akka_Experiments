@@ -9,3 +9,4 @@ build/
 .sbtserver/
 
 .attach_pid*
+*.jar
